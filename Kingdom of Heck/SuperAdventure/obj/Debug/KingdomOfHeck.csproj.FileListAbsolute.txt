@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\obj\Debug\KingdomOfHeck.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\obj\Debug\KingdomOfHeck.KingdomOfHeck.resources
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\obj\Debug\KingdomOfHeck.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\obj\Debug\KingdomOfHeck.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\obj\Debug\KingdomOfHeck.csproj.CopyComplete
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\Student\source\repos\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb

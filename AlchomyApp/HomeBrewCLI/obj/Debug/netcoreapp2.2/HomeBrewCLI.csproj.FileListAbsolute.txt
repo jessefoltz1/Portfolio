@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\bin\Debug\netcoreapp2.2\HomeBrewCLI.deps.json
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\bin\Debug\netcoreapp2.2\HomeBrewCLI.runtimeconfig.json
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\bin\Debug\netcoreapp2.2\HomeBrewCLI.runtimeconfig.dev.json
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\bin\Debug\netcoreapp2.2\HomeBrewCLI.dll
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\bin\Debug\netcoreapp2.2\HomeBrewCLI.pdb
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\bin\Debug\netcoreapp2.2\HomeBrew.dll
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\bin\Debug\netcoreapp2.2\HomeBrew.pdb
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\obj\Debug\netcoreapp2.2\HomeBrewCLI.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\obj\Debug\netcoreapp2.2\HomeBrewCLI.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\obj\Debug\netcoreapp2.2\HomeBrewCLI.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\obj\Debug\netcoreapp2.2\HomeBrewCLI.AssemblyInfo.cs
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\obj\Debug\netcoreapp2.2\HomeBrewCLI.csproj.CopyComplete
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\obj\Debug\netcoreapp2.2\HomeBrewCLI.dll
+C:\Users\Student\source\repos\AlchomyApp\HomeBrewCLI\obj\Debug\netcoreapp2.2\HomeBrewCLI.pdb

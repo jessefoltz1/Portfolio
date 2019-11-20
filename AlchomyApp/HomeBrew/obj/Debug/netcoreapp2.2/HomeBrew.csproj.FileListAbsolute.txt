@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\AlchomyApp\HomeBrew\bin\Debug\netcoreapp2.2\HomeBrew.deps.json
+C:\Users\Student\source\repos\AlchomyApp\HomeBrew\bin\Debug\netcoreapp2.2\HomeBrew.dll
+C:\Users\Student\source\repos\AlchomyApp\HomeBrew\bin\Debug\netcoreapp2.2\HomeBrew.pdb
+C:\Users\Student\source\repos\AlchomyApp\HomeBrew\obj\Debug\netcoreapp2.2\HomeBrew.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\AlchomyApp\HomeBrew\obj\Debug\netcoreapp2.2\HomeBrew.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\AlchomyApp\HomeBrew\obj\Debug\netcoreapp2.2\HomeBrew.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\AlchomyApp\HomeBrew\obj\Debug\netcoreapp2.2\HomeBrew.AssemblyInfo.cs
+C:\Users\Student\source\repos\AlchomyApp\HomeBrew\obj\Debug\netcoreapp2.2\HomeBrew.dll
+C:\Users\Student\source\repos\AlchomyApp\HomeBrew\obj\Debug\netcoreapp2.2\HomeBrew.pdb
