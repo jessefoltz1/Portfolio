@@ -1,0 +1,33 @@
+﻿@using ParkGeek.MVC.Models
+@using ParkGeek.DAL.Models
+@section Title{
+    Favorites
+}
+@model IList<FavoritesViewModel>
+
+<div id="favBody">
+
+    <h1>Favorite Parks</h1>
+
+    @foreach (FavoritesViewModel fvm in Model)
+    {
+        <div class="favPark">
+            <img class="favImg" src="~/img/parks/@(fvm.ParkCode).jpg" />
+            <div class="favContent">
+                <h2 id="parkFavName">@fvm.ParkName</h2>
+                <h3>NUMBER OF VOTES: @fvm.NumVotes </h3>
+                <p>
+                    @fvm.ParkDesc
+                </p>
+            </div>
+            
+        </div>
+    }
+</div> 
+               
+
+
+
+
+
+      

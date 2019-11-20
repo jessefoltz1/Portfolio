@@ -1,0 +1,34 @@
+﻿@*<div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <img  id="logo" src="~/img/logo.png" />
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                @Html.ActionLink("", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                </ul>
+            </div>
+        </div>
+    </div>*@
+
+@*<header>
+    <img src="~/img/logo.png" alt="Park Geek Logo" />
+
+    <div>
+        <nav>
+            <ul>
+                <li><a  asp-action="Home" asp-controller="Park"> Home</a></li>
+                <li><a  asp-action="Survey" asp-controller="Survey"> Survey</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>*@

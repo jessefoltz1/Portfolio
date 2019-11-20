@@ -1,0 +1,50 @@
+@using ParkGeek.MVC.Models
+@model ParkViewModel 
+
+@section Title{
+    Detail
+}
+
+<body class="detailsBody">
+    <h2>Park Details</h2>
+
+    <div class="detailsPark">
+            <div>
+                <img class="park-detailImg" src="~/img/parks/@(Model.Park.ParkCode).jpg" />
+
+            </div>
+
+            <div id="detailsText">
+                <h2 class="ParkDetails">@Model.Park.ParkName</h2>
+                <h6 class="ParkDetails">ENTRY FEE: $ @Model.Park.EntryFee.00</h6>
+                <h6 class="ParkDetails">YEAR FOUNDED: @Model.Park.YearFounded</h6>
+                <h6 class="ParkDetails">STATE: @Model.Park.State</h6>
+                <h6 class="ParkDetails">CLIMATE: @Model.Park.Climate</h6>
+                <h6 class="ParkDetails">ELEVATION: @Model.Park.ElevationFeet FT</h6>
+                <h6 class="ParkDetails">ACREAGE: @Model.Park.Acerage</h6>
+                <h6 class="ParkDetails">MILES OF TRAILS: @Model.Park.MilesOfTrails Miles</h6>
+                <h6 class="ParkDetails">NUMBER OF CAMPSITES: @Model.Park.NumOfCampsites</h6>
+                <h6 class="ParkDetails">NUMBER OF ANIMAL SPECIES: @Model.Park.NumOfAnimalSpecies</h6>
+                <p>"@Model.Park.Quote"</p>
+                <p> -@Model.Park.QuoteSource</p>
+
+            </div>
+        </div>
+            <h3 id="weatherh3">5 DAY FORCAST</h3>
+        <div class=" weatherDetails">
+
+            <br />
+            @foreach (var weather in Model.Weather)
+            {
+                <div class="weather">
+
+                    <img id="weatherImg" src="~/img/weather/@(weather.ForeCast).png" />
+                    <div id="weatherText">
+                        <p>FORCAST: @weather.ForeCast</p>
+                        <p>HIGH: @weather.HighTemp </p>
+                        <p>LOW: @weather.LowTemp</p>
+                    </div>
+                </div>
+            }
+    </div>
+</body>

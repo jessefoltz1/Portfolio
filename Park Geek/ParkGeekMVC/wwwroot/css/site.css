@@ -1,0 +1,189 @@
+﻿.error {
+    color: red;
+}
+/* HEADER CSS*/
+#headBody {
+    background-color:blanchedalmond;
+}
+header {
+    background-color: blanchedalmond;
+    display: inline-block;
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+    height: 20%;
+}
+
+header img {
+
+    width: 25%;
+    margin-left: 10px;
+
+}
+
+
+#headerNav{
+    margin-top: 2%;
+}
+nav {
+    display:flex;
+    position:relative;
+   justify-content: flex-end;
+}
+
+nav ul {
+    width: 100%;
+    display: inline-flex;
+    justify-content: flex-start;
+
+    text-decoration-color: aliceblue;
+    background-color: darkslategray;
+}
+
+
+    nav ul li {
+      
+        list-style: none;
+        text-align: left;
+        flex-grow: 1;
+        padding-right: 35px;
+        padding-top: 5px;
+        padding-bottom: 10px;
+        margin: 0 2px;
+        max-width: 200px;
+    }
+        nav ul li a {
+            color: #dbe1e7;
+        }
+
+        nav ul li a:hover {
+            color: aqua;
+        }
+
+/* BEGIN INDEX CSS*/
+
+#homePg {
+    padding-top: 10%;
+}
+
+ .indexPark {
+    display: flex;
+    margin: 2%;
+}
+
+ .indexImg{
+ 
+    border-style:solid;
+    border-width: 10px;
+    border-radius: 5%;
+    border-color:darkgrey;
+ 
+ }
+
+ .indexContent{
+    margin-right: 25%;
+    padding-left: 1%;
+    
+ }
+
+#parkIndexName{
+    padding-bottom: 2%;
+}
+/* LOGIN AND REGISTRAITON CSS*/
+#Login {
+    padding-top: 250px;
+}
+#registerForm {
+    padding-top: 200px;
+}
+
+
+/* BEGIN SURVEY CSS*/
+#surveyForm {
+    padding-left: 30px;
+    padding-top: 315px;
+}
+
+/*BEGIN DETAILS CSS*/
+
+.detailsPark {
+    display: flex;
+    margin: 2%;
+}
+.park-detailImg {
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 5%;
+    border-color: darkgrey;
+}
+
+.detailsPark {
+    padding-top: 215px;
+    margin-right: 25%;
+    padding-left: 1%;
+}
+
+#detailsText {
+    padding-bottom: 2%;
+    padding-left: 1%;
+}
+
+
+.weatherDetails{
+    display: flex;
+    height: 20%;
+    background-color:aliceblue;
+    border-radius: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 25%;
+    justify-content:space-around;
+
+}
+#weatherImg {
+    height: 45%;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 5%;
+    border-color: darkgrey;
+}
+.weatherText {
+    display:flex;
+    flex-direction: row;
+}
+.weather {
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin: 2%;
+}
+#weatherh3 {
+    margin: 1%;
+}
+
+/* FAVORITES CSS*/
+#favBody {
+    padding-top: 12%;
+}
+
+.favPark {
+    display: flex;
+    margin: 2%;
+}
+
+.favImg {
+    height: 100%;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 5%;
+    border-color: darkgrey;
+}
+
+.favContent {
+    margin-right: 25%;
+    padding-left: 1%;
+}
+
+#parkFavName {
+    padding-bottom: 2%;
+}

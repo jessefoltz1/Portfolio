@@ -1,0 +1,29 @@
+﻿
+@using ParkGeek.DAL.Models
+@model  IList<ParkModel>
+@section Title{
+    Home
+}
+
+<div id="homePg">
+   
+        @foreach (ParkModel park in Model)
+        {
+            <div class="indexPark">
+                <a asp-action="Details" asp-controller="Park" asp-route-parkcode="@park.ParkCode">
+                    <img class="indexImg" src="~/img/parks/@(park.ParkCode).jpg" />
+                </a>
+                <div class="indexContent">
+                    <h2 id="parkIndexName"> @park.ParkName</h2>
+              
+                    <p>
+                        @park.ParkDescription
+                    </p>
+                                        
+                </div>
+            </div>
+        }
+   
+</div>
+
+
