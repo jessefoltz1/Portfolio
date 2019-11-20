@@ -1,0 +1,4 @@
+C:\Users\Student\workspace\team3-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.csprojAssemblyReference.cache
+C:\Users\Student\workspace\team3-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\team3-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\team3-c-week4-pair-exercises\19_Capstone\dotnet\CapstoneTests\obj\Debug\netcoreapp2.1\CapstoneTests.AssemblyInfo.cs
