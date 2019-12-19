@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\source\\repos\\AlchomyApp\\HomeBrewCLI\\HomeBrewCLI.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Portfolio\\Portfolio\\AlchomyApp\\HomeBrewCLI\\HomeBrewCLI.csproj",
       "projectName": "HomeBrewCLI",
-      "projectPath": "C:\\Users\\Student\\source\\repos\\AlchomyApp\\HomeBrewCLI\\HomeBrewCLI.csproj",
+      "projectPath": "C:\\Users\\Student\\Portfolio\\Portfolio\\AlchomyApp\\HomeBrewCLI\\HomeBrewCLI.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\source\\repos\\AlchomyApp\\HomeBrewCLI\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Portfolio\\Portfolio\\AlchomyApp\\HomeBrewCLI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -731,8 +731,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Student\\source\\repos\\AlchomyApp\\HomeBrew\\HomeBrew.csproj": {
-              "projectPath": "C:\\Users\\Student\\source\\repos\\AlchomyApp\\HomeBrew\\HomeBrew.csproj"
+            "C:\\Users\\Student\\Portfolio\\Portfolio\\AlchomyApp\\HomeBrew\\HomeBrew.csproj": {
+              "projectPath": "C:\\Users\\Student\\Portfolio\\Portfolio\\AlchomyApp\\HomeBrew\\HomeBrew.csproj"
             }
           }
         }
