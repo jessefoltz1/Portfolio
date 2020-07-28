@@ -1,0 +1,12 @@
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\bin\Debug\KingdomOfHeck.exe.config
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\bin\Debug\KingdomOfHeck.exe
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\bin\Debug\KingdomOfHeck.pdb
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\bin\Debug\Engine.dll
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\bin\Debug\Engine.pdb
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\obj\Debug\KingdomOfHeckUI.csprojAssemblyReference.cache
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\obj\Debug\KingdomOfHeck.KingdomOfHeckForm.resources
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\obj\Debug\KingdomOfHeck.Properties.Resources.resources
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\obj\Debug\KingdomOfHeckUI.csproj.GenerateResource.cache
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\obj\Debug\KingdomOfHeckUI.csproj.CopyComplete
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\obj\Debug\KingdomOfHeck.exe
+C:\Users\Jesse\source\repos\KingdomOfHeck\KingdomOfHeck\obj\Debug\KingdomOfHeck.pdb
